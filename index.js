@@ -31,6 +31,7 @@ function inc(n)
 function dec(n)
 {
   n -= 1
+  console.log(n)
   return n
 }
 
