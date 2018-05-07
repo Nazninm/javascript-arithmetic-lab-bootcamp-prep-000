@@ -46,4 +46,4 @@ function preserveDecimal(n)
   return result
 }
 
-dec(5)
+console.log("done")
