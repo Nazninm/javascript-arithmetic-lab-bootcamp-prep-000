@@ -24,12 +24,18 @@ function devide(a,b)
 
 function inc(n)
 {
-  n += 1;
-  return n;
+  n += 1
+  return n
 }
 
 function dec(n)
 {
-  n -= 1;
-  return n;
+  n -= 1
+  return n
+}
+
+makeInt(n)
+{
+  var result = parseInt(n, 10)
+  return result
 }
