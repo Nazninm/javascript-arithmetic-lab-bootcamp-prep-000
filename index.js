@@ -6,19 +6,19 @@ function add(a,b)
 
 function subtract(a,b)
 {
-  var result = a+b;
+  var result = a-b;
   return result
 }
 
 function multiply(a,b)
 {
-  var result = a+b;
+  var result = a*b;
   return result
 }
 
-function devide(a,b)
+function divide(a,b)
 {
-  var result = a+b;
+  var result = a/b;
   return result
 }
 
