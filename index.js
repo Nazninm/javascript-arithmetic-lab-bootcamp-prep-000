@@ -31,7 +31,6 @@ function inc(n)
 function dec(n)
 {
   n -= 1
-  console.log(n)
   return n
 }
 
@@ -45,5 +44,3 @@ function preserveDecimal(n)
   var result = parseFloat(n)
   return result
 }
-
-console.log("done")
