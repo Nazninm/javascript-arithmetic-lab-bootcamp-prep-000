@@ -39,7 +39,7 @@ makeInt(n)
   var result = parseInt(n, 10)
   return result
 }
-preser(n)
+preserveDecimal(n)
 {
   var result = parseInt(n, 10)
   return result
