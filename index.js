@@ -44,3 +44,5 @@ function preserveDecimal(n)
   var result = parseFloat(n)
   return result
 }
+
+dec(5)
