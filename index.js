@@ -27,3 +27,9 @@ function inc(n)
   n += 1;
   return n;
 }
+
+function inc(n)
+{
+  n += 1;
+  return n;
+}
