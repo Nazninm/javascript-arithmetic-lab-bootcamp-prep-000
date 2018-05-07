@@ -39,3 +39,8 @@ makeInt(n)
   var result = parseInt(n, 10)
   return result
 }
+preser(n)
+{
+  var result = parseInt(n, 10)
+  return result
+}
